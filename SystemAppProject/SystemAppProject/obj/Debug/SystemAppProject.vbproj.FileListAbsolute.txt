@@ -1,0 +1,11 @@
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\obj\Debug\SystemAppProject.vbproj.AssemblyReference.cache
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\obj\Debug\SystemAppProject.Resources.resources
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\obj\Debug\SystemAppProject.vbproj.GenerateResource.cache
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\obj\Debug\SystemAppProject.vbproj.CoreCompileInputs.cache
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\bin\Debug\SystemAppProject.exe.config
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\bin\Debug\SystemAppProject.exe
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\bin\Debug\SystemAppProject.pdb
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\bin\Debug\SystemAppProject.xml
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\obj\Debug\SystemAppProject.exe
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\obj\Debug\SystemAppProject.xml
+C:\Users\John Paul\source\repos\SystemAppProject\SystemAppProject\obj\Debug\SystemAppProject.pdb
